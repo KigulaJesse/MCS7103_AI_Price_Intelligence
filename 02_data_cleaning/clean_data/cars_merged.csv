@@ -1,8 +1,7 @@
 ref_no,title,make,model,year,mileage,engine_cc,transmission,fuel,seats,location,price_usd,total_price_usd,price_ugx,total_price_ugx,url,source
 BY759022,2006 HONDA ACTY TRUCK,Honda,Acty,2006,111250.0,650.0,MT,Petrol,2,Location,2370,39730.0,8532000,143028000.0,/honda/acty-truck/by759022/id/11910020/,BeForward
 BY759024,2013 MITSUBISHI CANTER,Mitsubishi,Canter,2013,312401.0,2990.0,Semi AT,Diesel,3,Location,3920,77470.0,14112000,278892000.0,/mitsubishi/canter/by759024/id/11910065/,BeForward
-CA462307,"2014 TOYOTA HIACE VAN
-                                 DX",Toyota,Hiace,2014,161352.0,2980.0,AT,Diesel,3,Location,5960,84920.0,21456000,305712000.0,/toyota/hiace-van/ca462307/id/12565207/,BeForward
+CA462307,"2014 TOYOTA HIACE VAN DX",Toyota,Hiace,2014,161352.0,2980.0,AT,Diesel,3,Location,5960,84920.0,21456000,305712000.0,/toyota/hiace-van/ca462307/id/12565207/,BeForward
 CA740447,"2011 TOYOTA WISH
                                  1.8X",Toyota,Wish,2011,154001.0,1790.0,AT,Petrol,7,Location,2430,45440.0,8748000,163584000.0,/toyota/wish/ca740447/id/12831915/,BeForward
 CB026605,"2017 HONDA FIT HYBRID
