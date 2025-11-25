@@ -1,4 +1,4 @@
-# MCS7103_AI_Price_Negotiator
+# MCS7103_AI_Price_Intelligence
 AI-Powered Price Intelligence for Car Buyers in Uganda.
 
 ### 01_Data_Collection
