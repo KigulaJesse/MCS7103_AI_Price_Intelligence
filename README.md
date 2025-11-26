@@ -7,7 +7,7 @@ All the scraping scripts and notebooks used to collect car data from online mark
 
 ### 02_Data_Cleaning
 
-Includes the notebooks that clean and prepare the scraped data. Here, missing values are handled with oversampling, numeric fields are converted into proper numbers, text fields are standardized and USD prices are converted into UGX. The cleaned data from all sources is then merged into one unified dataset that is ready for analysis and modelling.
+Includes the notebooks that clean and prepare the scraped data. Here, missing values are handled with oversampling but this led to inaccurate prediction results, numeric fields are converted into proper numbers, text fields are standardized and USD prices are converted into UGX. The cleaned data from all sources is then merged into one unified dataset that is ready for analysis and modelling.
 
 ### 03_Explaratory_Analysis
 
